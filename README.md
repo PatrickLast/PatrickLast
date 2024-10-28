@@ -1,9 +1,4 @@
 # About me 👋
-
-**PatrickLast/PatrickLast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building my own website.
 - 🌱 I’m currently learning to be a certified professional coach, so I can help individuals and businesses get more of what they want. I am also learning Wordpress, html and css so I can build my own website and also help those that I coach to build theirs. 
 - 💬 Ask me about how I can help you get more of what you want out of life.
